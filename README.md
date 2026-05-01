@@ -1,7 +1,5 @@
 # CIDA-RIDS: Curriculum Importance-Weighted Diverse-Attack Robust Intrusion Detection System
 
-![CIDA-RIDS teaser](assets/teaser.png)
-
 This is the final project of CPRE 5600 at Iowa State University. CIDA-RIDS is a robust Network Intrusion Detection System (NIDS) framework designed for adversarially perturbed network-flow features. The project combines a safe preprocessing/regularization stack with three proposed robustness modules:
 
 1. **Importance-Weighted PGD / FGSM (IW-PGD, IW-FGSM)** — assigns larger perturbation budgets to more important mutable features.
